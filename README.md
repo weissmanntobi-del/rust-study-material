@@ -10,3 +10,6 @@
 <li> Rust Poduction Testing: https://tobiweissmann.gumroad.com/l/elxesu </li>
 <li> Rust Observability Checklist : https://tobiweissmann.gumroad.com/l/xfzvf </li>
 <li> Rust Interview PlayBook: https://tobiweissmann.gumroad.com/l/nfzrx </li>
+
+# Rust Complete Course Material
+<li>Complete Rust Material : https://tobiweissmann.gumroad.com/l/gnuvxu</li>
