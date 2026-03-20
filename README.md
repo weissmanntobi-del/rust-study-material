@@ -6,4 +6,7 @@
 <li> Mastering Rust Borrow Checker: https://tobiweissmann.gumroad.com/l/bmcdn </li>
 <li> Rust Web Programming : https://tobiweissmann.gumroad.com/l/gztncx </li>
 <li> Rust Beginner Bundle: https://tobiweissmann.gumroad.com/l/enldsy </li>
-<li> Rust CheatSheet: https://tobiweissmann.gumroad.com/l/pvaqvy </li>
+<li> Rust Poduction CheatSheet: https://tobiweissmann.gumroad.com/l/pvaqvy </li>
+<li> Rust Poduction Testing: https://tobiweissmann.gumroad.com/l/elxesu </li>
+<li> Rust Observability Checklist : https://tobiweissmann.gumroad.com/l/xfzvf </li>
+<li> Rust Interview PlayBook: https://tobiweissmann.gumroad.com/l/nfzrx </li>
