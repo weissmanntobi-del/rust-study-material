@@ -3,6 +3,7 @@
 <li>Complete Rust Material : https://tobiweissmann.gumroad.com/l/gnuvxu</li>
 
 # Rust-Study-Material
+<li> Rust for Python Developers Bundle: https://tobiweissmann.gumroad.com/l/wcylm  </li>
 <li> Rust Mini Projects Zero To Production: https://tobiweissmann.gumroad.com/l/ranqd </li>
 <li> Rataui in Rust: https://tobiweissmann.gumroad.com/l/hxtxs </li>
 <li> Production Async Rust Tokio: https://tobiweissmann.gumroad.com/l/aahkqa </li>
